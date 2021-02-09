@@ -1,0 +1,13 @@
+@import "navBar";
+@import "buscador.scss";
+@import "galeria.scss";
+
+
+body, html, .root{
+    margin: 0;
+    padding: 0;
+}
+
+a:link a:active a:visited{
+    text-decoration: none;
+}
